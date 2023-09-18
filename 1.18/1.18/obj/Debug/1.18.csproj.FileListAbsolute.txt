@@ -1,0 +1,6 @@
+E:\Assisted\Phase 4\Section 2\1.18\1.18\bin\Debug\1.18.dll
+E:\Assisted\Phase 4\Section 2\1.18\1.18\bin\Debug\1.18.pdb
+E:\Assisted\Phase 4\Section 2\1.18\1.18\obj\Debug\1.18.csproj.AssemblyReference.cache
+E:\Assisted\Phase 4\Section 2\1.18\1.18\obj\Debug\1.18.csproj.CoreCompileInputs.cache
+E:\Assisted\Phase 4\Section 2\1.18\1.18\obj\Debug\1.18.dll
+E:\Assisted\Phase 4\Section 2\1.18\1.18\obj\Debug\1.18.pdb

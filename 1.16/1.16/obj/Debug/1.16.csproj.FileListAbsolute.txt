@@ -1,0 +1,17 @@
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\1.16.dll
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\1.16.pdb
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\Castle.Core.dll
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\Moq.dll
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\nunit.framework.dll
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\Castle.Core.xml
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\Moq.xml
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\nunit.framework.xml
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Assisted\Phase 4\Section 2\1.16\1.16\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Assisted\Phase 4\Section 2\1.16\1.16\obj\Debug\1.16.csproj.AssemblyReference.cache
+E:\Assisted\Phase 4\Section 2\1.16\1.16\obj\Debug\1.16.csproj.CoreCompileInputs.cache
+E:\Assisted\Phase 4\Section 2\1.16\1.16\obj\Debug\1.16.csproj.CopyComplete
+E:\Assisted\Phase 4\Section 2\1.16\1.16\obj\Debug\1.16.dll
+E:\Assisted\Phase 4\Section 2\1.16\1.16\obj\Debug\1.16.pdb
